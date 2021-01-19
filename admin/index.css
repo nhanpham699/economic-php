@@ -1,0 +1,146 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Tahoma;
+    font-size: 15px;
+
+}
+table.table tr th{
+	text-align: center;
+}
+#loginA{
+	width: 50%;
+	margin: 10% 25%;
+}
+#top{
+	position: relative;
+	background: black;
+	width: 97%;
+	margin-left: 20px; 
+	height: 50px;
+}
+#top ul{
+margin: 0px;
+padding: 0px;
+}
+#top ul li{
+list-style: none;
+float: left;
+}
+#top ul li a{
+text-decoration: none;
+color: white;
+display: block;
+font-weight: bold;
+height: 50px;
+line-height: 50px;
+padding: 0px 10px 0px 10px;
+border: solid 1px white;
+}
+#top ul li a:hover{
+background: white;
+color: #FF0000;
+transition: ease-in 0.3s;
+-moz-transition: ease-in 0.3s;
+-webkit-transition: ease-in 0.3s
+}
+#content{  
+background: none;
+margin: 0 auto;
+max-width: 93%;
+margin-left: 46px; 
+padding: 10px 0px;
+}
+
+#tr1pr{
+height: 50px;
+font-weight: bold;
+font-size: 17px;
+}
+#tr1pr td{	
+background: #80808047;
+line-height: 40px;
+}
+table.table tbody td{	
+background: #8080802e;;
+line-height: 60px;
+}
+i.fa-trash{
+	color: black;
+}
+.table th{
+background: #80808026;
+}
+#listProduct{
+ margin: 5% 8%; 
+ width: 85%;
+}
+.aau{
+	background: silver;
+	margin: 0 auto;
+	width: 39%;
+	margin-top: 3%;
+	border: 1px solid black;
+	padding: 2% 0;
+}
+table.table1 tbody tr td{
+	padding: 4% 1%;
+}
+table.table1{
+	margin-left: 13%;
+}
+h2.tt{
+	color: red;
+	margin: 0 auto;
+	width: 26%;
+	margin-top: 1%; 
+}
+button.btn1{
+	width: 80%;
+	height: 40px;
+}
+#orderscontent{
+	margin: 5% 10%;
+	width: 85%;
+}
+#tr1orders{
+height: 50px;
+font-weight: bold;
+font-size: 17px;
+}
+#tr1orders td{
+background: #80808047;
+line-height: 40px;
+}
+#tr2orders td{
+background: #8080802e;
+line-height: 60px;
+}
+.table th{
+background: #80808026;
+}
+
+h3{
+	color: red; 
+	margin-left:35.5%;
+}
+table.table2 tbody tr td {
+	/*width: 100%;*/
+	padding: 5%;
+}
+table.table2 tbody tr th {
+	width: 30%;
+	
+}
+
+table.table2{
+	margin-left: 15%; 
+}
+.inforuser{
+	background: silver;
+	margin: 0 auto;
+	width: 30%;
+	margin-top: 3%;
+	border: 1px solid black;
+	padding: 2% 0;
+}
